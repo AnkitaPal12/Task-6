@@ -1,0 +1,146 @@
+/* *{
+  overflow-y: auto; 
+   overflow-x: auto;
+} */
+/*Navigation Bar*/
+
+
+.snap{
+    margin-left: 70px;
+    font-size: 8px;
+    margin-top: 0px;
+  }
+  .navbar-brand{
+      margin-bottom: 0px;
+  }
+  .container-fluid{
+      padding: 1% 2%;
+  }
+  
+  .navbar{
+      padding: 0 0 4.5rem;
+  }
+
+  .head1{
+    margin-left: 50px;
+    margin-top: 10px;
+  }
+  
+  .head2{
+    margin: 30px 70px 40px 50px;
+  }
+  .p1{
+    margin-left: 100px;
+  }
+ 
+  .col-lg-12{
+    margin: 0px 20px;
+  }
+
+.comm{
+  width: 10%;
+  height: 4px;
+}
+.h1{
+  width: 400;
+  margin-right: 730px;
+}
+.h2{
+  margin-left: 660px;
+}
+.text{
+  text-align: center;
+}
+/* .eight{
+  margin-left: 20px;
+} */
+.instructor{
+  margin-right: 190px;
+}
+
+/* description */ 
+  .img1 {
+    float: right;
+  }
+  .img2 {
+    float: left;
+  }
+
+.part1{
+  margin-bottom: 120px;
+}
+.mentor{
+  margin-left: 400px;
+}
+.panel{
+  margin-left: 390px;
+}
+.eight{
+  
+}
+  /* cards */ 
+
+  #pricing{
+    margin-top: 150px;
+  }
+ .Pricing-column{
+   text-align: center;
+ }
+ 
+ /* Pricing */ 
+ .btn-primary{
+  background-color: #e429da !important;
+}
+.card-body1 {
+  color: white;
+  background-color: #1D2186;
+  padding: 30px 10px;
+}
+.Business{
+  /* float: right; */
+  margin-left: 580px;
+}
+.col-sm-2{
+  float: right;
+}
+.list{
+  margin: 20px 0px;
+}
+.li{
+  margin: 7px 0px;
+}
+
+@media (max-width: 1028px){
+	.col-lg-6 {
+	margin: 0 10px;
+	}
+	.icons{
+	margin-left: 10px;
+	}
+  .part1{
+    margin-bottom: 30px;
+  }
+  .part2{
+    margin-top: 40px;
+  }
+  #pricing{
+    margin-top: 50px;
+  }
+  .Business{
+    /* float: right; */
+    margin-left: 0px;
+  }
+  .comm{
+    width: 100%;
+    height: 4px;
+  }
+  .mentor{
+    margin-left: 0px;
+  }
+  .panel{
+    margin-left: 40px;
+  }
+  .h2{
+    margin-left: 7px;
+  }
+}
